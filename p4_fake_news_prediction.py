@@ -14,7 +14,7 @@ nltk.download('stopwords')
 
 print(stopwords.words('english'))
 
-news_data = pd.read_csv('/content/news.csv')
+news_data = pd.read_csv('news.csv')
 
 # number of raws and columns
 news_data.shape
