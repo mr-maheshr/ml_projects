@@ -1,6 +1,15 @@
 # ML Projects
-P1: Sonar Rock vs Mine classification -> Logistic Regression  
-P2: Diabetes Prediction using SVM -> SVM classifier  
-P3: House Price Prediction -> XGBRegressor  
-P4: Fake News Prediction -> Logistic Regression  
-P5: Loan Status Prediction -> SVM Classifier
+A collection of machine learning practice projects built using Python and Scikit‑learn.  
+
+📌 Projects  
+  - Sonar Rock vs Mine Classification
+  - Diabetes Prediction
+  - House Price Prediction
+  - Fake News Detection (NLP)
+  - Loan Approval Prediction
+
+🛠️ Tech Stack  
+Python · NumPy · Pandas · Scikit‑learn · NLTK · XGBoost  
+
+🚀 Future Work  
+More projects will be added.
